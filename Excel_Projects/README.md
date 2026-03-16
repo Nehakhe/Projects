@@ -10,7 +10,7 @@ The goal is to understand product performance and regional sales trends.
 ## Pivot Table
 
 ![pivot_table](pivot_table.png)
-![pivot table1](pivot_table1.png)
+![pivot_table1](pivot_table1.png)
 
 
 
