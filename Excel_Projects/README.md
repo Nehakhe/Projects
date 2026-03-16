@@ -14,7 +14,6 @@ The goal is to understand product performance and regional sales trends.
 ![pivot_table1](pivot_table1.png)
 
 Tasks Performed:
-
 • Calculated total sales using SUM formula
 • Found average units sold using AVERAGE
 • Used VLOOKUP to retrieve product category information
